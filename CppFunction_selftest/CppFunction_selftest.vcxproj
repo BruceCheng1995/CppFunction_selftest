@@ -123,6 +123,13 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="Dm1.cpp" />
+    <ClCompile Include="Dm2.cpp" />
+    <ClCompile Include="Dm3.cpp" />
+    <ClCompile Include="Dm4.cpp" />
+    <ClCompile Include="Dm5.cpp" />
+    <ClCompile Include="Dm6.cpp" />
+    <ClCompile Include="Dm7.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
